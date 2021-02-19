@@ -1,0 +1,13 @@
+C:\Users\joaop\source\repos\testeTecnicos\questao2\bin\Debug\netcoreapp3.1\questao2.exe
+C:\Users\joaop\source\repos\testeTecnicos\questao2\bin\Debug\netcoreapp3.1\questao2.deps.json
+C:\Users\joaop\source\repos\testeTecnicos\questao2\bin\Debug\netcoreapp3.1\questao2.runtimeconfig.json
+C:\Users\joaop\source\repos\testeTecnicos\questao2\bin\Debug\netcoreapp3.1\questao2.runtimeconfig.dev.json
+C:\Users\joaop\source\repos\testeTecnicos\questao2\bin\Debug\netcoreapp3.1\questao2.dll
+C:\Users\joaop\source\repos\testeTecnicos\questao2\bin\Debug\netcoreapp3.1\questao2.pdb
+C:\Users\joaop\source\repos\testeTecnicos\questao2\obj\Debug\netcoreapp3.1\questao2.csprojAssemblyReference.cache
+C:\Users\joaop\source\repos\testeTecnicos\questao2\obj\Debug\netcoreapp3.1\questao2.AssemblyInfoInputs.cache
+C:\Users\joaop\source\repos\testeTecnicos\questao2\obj\Debug\netcoreapp3.1\questao2.AssemblyInfo.cs
+C:\Users\joaop\source\repos\testeTecnicos\questao2\obj\Debug\netcoreapp3.1\questao2.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\testeTecnicos\questao2\obj\Debug\netcoreapp3.1\questao2.dll
+C:\Users\joaop\source\repos\testeTecnicos\questao2\obj\Debug\netcoreapp3.1\questao2.pdb
+C:\Users\joaop\source\repos\testeTecnicos\questao2\obj\Debug\netcoreapp3.1\questao2.genruntimeconfig.cache
